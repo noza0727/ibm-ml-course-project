@@ -1,1 +1,1 @@
-# ibm-ml-course-project
+# Final project from IBM ML with Python course (Coursera)
